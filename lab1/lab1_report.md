@@ -7,3 +7,4 @@ Author: Aushev Islam Amarhanovich
 Lab: Lab1
 Date of create: 15.12.2022
 
+В работе было сделано следующее : 1) Установлен Docker 2) Установлен minikube и запущен кластер.
