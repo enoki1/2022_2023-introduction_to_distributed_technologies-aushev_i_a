@@ -1,0 +1,17 @@
+kind: Pod
+
+apiVersion: v1
+
+metadata:
+
+  name: vault
+
+  namespace: test
+
+spec:
+
+  containers:
+
+  - name: vault
+
+    image: hashicorp/vault
